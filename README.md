@@ -108,5 +108,23 @@
     - Check/See the configuration:
 
         - git config --list
+    
+    - Clear the git bash:
+
+        - clear
+
+3. Command Line Tool:
+
+    - MacOS and Linux --> terminal
+
+    - Windows --> git bash
+
+    - what is a "root" directory ? --> directory at the top most level.
+
+    - Commands:
+    
+        - print working directory:
+        
+            --> pwd
 
 
