@@ -77,3 +77,36 @@
     - git is written in language C.
 
     - 
+
+2. Setting Up the Environment: (git bash commands)
+
+    - To check the git version:
+
+        - git --version
+
+    - To check folder directory:
+
+        - pwd
+    
+    - To move to a directory:
+
+        - cd Desktop
+    
+    - To view all files in a directory:
+
+        - ls
+    
+    - Configure git:
+
+        - Configuration of global variables:
+
+            - git config --global user.name "Kapil Chaudhary"
+            - git config --global user.email "chaudharikapil16@gmail.com"
+        
+        - We need to tell git that whenever we make changes then save this with this name and email.
+    
+    - Check/See the configuration:
+
+        - git config --list
+
+
