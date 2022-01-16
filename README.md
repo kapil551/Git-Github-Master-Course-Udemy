@@ -245,6 +245,49 @@
 
             --> mv script.js hello.js
 
+4. Git Introduction:
+
+    - Types of Git Commands:
+
+        1. Creating Repository:
+
+            - git init
+
+        2. Making Changes:
+
+            - git add
+
+            - git status
+
+            - git commit
+
+        3. Parallel Development: (VERY IMP 💥💥)
+
+            - git branch
+
+            - git merge
+
+        4. Syncing Repository:
+
+            - origin
+
+            - remote
+
+            - push
+
+            - pull
+
+            - fetch
+
+5. Git Three Stage Architecture:
+
+    - There are always three different stages of git project:
+
+        1. First is the "Modified Stage"
+        2. Second is the "Staged Stage"
+        3. Third is the "Committed Stage"
+
+![](git_three_stage_architecture.jpg)
         
 
 
