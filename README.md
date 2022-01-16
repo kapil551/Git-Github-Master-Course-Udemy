@@ -220,3 +220,32 @@
             --> rmdir -R folder_name
 
             --> Here -R refers for recursively
+        
+        - Copy Files:
+
+![](copy_files.jpg)
+
+            -->  cp folder_1/script.js folder_3/new_script1.js
+
+![](copy_files1.jpg)
+
+        - Copy a complete non-empty folder to the current working directory:
+
+            --> cp -R folder_3 new_folder_3
+
+        - Move/Cut a file:
+
+            --> mv folder_1/script.js folder_3/new_script.js
+        
+        - Move/Cut a folder:
+
+            --> mv -R folder_3 new_folder_3
+        
+        - Move/Cut the script.js file within the same working directory and save it with a new name called hello.js:
+
+            --> mv script.js hello.js
+
+        
+
+
+
