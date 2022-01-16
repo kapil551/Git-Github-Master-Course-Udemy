@@ -170,4 +170,29 @@
         - Go to the root directory:
 
             --> cd /
+        
+        - Create a new folder or directory:
 
+            --> mkdir new_folder_name
+
+            --> e.g. mkdir udemy_courses
+        
+        - Create three different new folders at the same time:
+
+            --> mkdir folder1 folder2 folder3
+
+            --> e.g. mkdir udemy_course1 udemy_course2 udemy_course3
+
+![](folder_hierarchy.jpg)
+
+        - I want to create this folder hierarchy at the same time:
+
+            --> mkdir -p udemy_courses/Github/Command_Line_Tool
+
+        - Creating a new file:
+
+            --> touch script.js
+
+            --> touch index.html
+
+            --> touch notes.txt
