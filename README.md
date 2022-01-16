@@ -147,4 +147,27 @@
 
             --> ls -al
 
+        - Change Current Directory to go inside child directories i.e. "One Step downward":
+
+            --> cd folder_name
+
+        - Go back to the parent directory from a child directory i.e. "One step upward":
+
+            --> cd ..
+        
+        - Go back to the top most current working directory from any child directory i.e. "Many Step Upward":
+
+            --> cd
+
+            or
+
+            --> ~
+        
+        - Moving multiple directory downwards from the current working directory:
+
+            --> cd Documents/College/DSA
+        
+        - Go to the root directory:
+
+            --> cd /
 
