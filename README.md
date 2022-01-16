@@ -196,3 +196,27 @@
             --> touch index.html
 
             --> touch notes.txt
+        
+        - Remove Files and Folders:
+
+            --> rm file_name
+
+            --> e.g. rm script.js
+
+            --> e.g. rm index.html
+
+![](delete_file.jpg)
+
+        - Delete this script.js file in one go:
+
+            --> rm udemy_courses/Github/Command_Line_Tool/script.js
+        
+        - Remove  an empty folder/directory:
+
+            --> rmdir folder_name
+
+        - Remove a non-empty folder/directory:
+
+            --> rmdir -R folder_name
+
+            --> Here -R refers for recursively
