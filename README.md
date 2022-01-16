@@ -126,5 +126,25 @@
         - print working directory:
         
             --> pwd
+        
+        - List Items / List all the files and folder:
+
+            --> ls
+        
+        - List all the folders and files in a list format i.e. there will be one item in one list:
+
+            --> ls -l
+        
+        - Also show all the hidden files and folders:
+
+            --> ls -a
+        
+        - Clear the command prompt or terminal:
+
+            --> clear
+        
+        - Also show all the hidden files and folders in a list format i.e. there will be one item in one list:
+
+            --> ls -al
 
 
